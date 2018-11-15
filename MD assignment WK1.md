@@ -17,5 +17,5 @@ Therefore we can conclude that the team has done an effort to enhance the ratio 
 Further information about the calculation can be seen from the other excel file.
 
 
-
+@xabi --> Be careful, there are rows with inconsistent data. Should we ignore them. Or maybe fix them?
 
