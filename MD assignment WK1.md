@@ -4,7 +4,7 @@ Looking at the data I would give the bonus to the team as the ratio of errors ha
 
 As we can see in the table below the %o ratio decreased around a 40%. 
 
-Month	Error	
+Month	Error rate	
 August	16,44	
 September	9,43	
 
@@ -14,7 +14,6 @@ Therefore we can conclude that the team has done an effort to enhance the ratio 
 
 Further information about the calculation can be seen from the other excel file.
 
-srgesrhztrhjrts
 
 
 
