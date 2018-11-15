@@ -4,8 +4,10 @@ Looking at the data I would give the bonus to the team as the ratio of errors ha
 
 As we can see in the table below the %o ratio decreased around a 40%. 
 
-Month	Error rate	
+Month	Error rate
+
 August	16,44	
+
 September	9,43	
 
 Decrease of 42,62
